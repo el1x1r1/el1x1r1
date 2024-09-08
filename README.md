@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning js
 <!--
 **el1x1r1/el1x1r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
